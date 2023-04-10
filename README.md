@@ -20,9 +20,7 @@ DataSet Link :  https://www.kaggle.com/competitions/covid-predictive-analysis
 
 
 # Data Exploration Sheet 
-
-
-
+![Screenshot 2023-04-10 114155](https://user-images.githubusercontent.com/114250197/230838618-d34b961d-6020-44ba-8540-5a85a1305093.png)
 
 
 #  Model 
@@ -34,23 +32,17 @@ For this model we tried following model listed as below :
 4)Random FOrest 
 
 
-
-
-
-
 # Orange Tool Model
 
 
-
-
-
-
-
-
-
+![Screenshot 2023-04-10 114408](https://user-images.githubusercontent.com/114250197/230838973-35664637-96d9-48d8-9f4b-3b03494f1996.png)
 
 # BI model 
 
+
+
+
+![Screenshot 2023-04-10 114601](https://user-images.githubusercontent.com/114250197/230839093-254f0a83-003c-4257-8441-2158f6ec6e1b.png)
 
   # conclusion 
   
